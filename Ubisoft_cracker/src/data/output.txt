@@ -11,3 +11,6 @@
 [Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153634]
 [Scoring]: MultiKill Summary: killCount:1, killTime:519382, playersInvolved:(Bot-16)
 [Scoring]: 2 Dev 158744780 got 20.0 bounty from [Actor - Kill] [Ace] [@519382]
+[Scoring]: 2 Dev 682280934 got 20.0 bounty from [Actor - Kill] [Ace] [@519382]
+[Scoring]: Bot-16 got 20.0 bounty from [Actor - Kill] [Ace] [@519382]
+[Scoring]: 2 Dev 158744780 got 10.0 bounty from [Actor - Kill Assist] [Victim: Actor2_(Actor_Replica_Player_2)] [@519382]
