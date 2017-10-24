@@ -1,0 +1,13 @@
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor200_(Actor_Local_Minion_200)] [@152133]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153633]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153633]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153633]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153633]
+[Scoring]: Bot-16 got 2.0 bounty from [Actor - Kill] [Victim: Actor214_(Actor_Local_Minion_214)] [@153634]
+[Scoring]: MultiKill Summary: killCount:1, killTime:519382, playersInvolved:(Bot-16)
+[Scoring]: 2 Dev 158744780 got 20.0 bounty from [Actor - Kill] [Ace] [@519382]

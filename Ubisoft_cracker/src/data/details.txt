@@ -1,0 +1,66 @@
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor200_(Actor_Local_Minion_200)
+Timestamp = 152133
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor214_(Actor_Local_Minion_214)
+Timestamp = 153633
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor214_(Actor_Local_Minion_214)
+Timestamp = 153633
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor214_(Actor_Local_Minion_214)
+Timestamp = 153633
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor214_(Actor_Local_Minion_214)
+Timestamp = 153633
+**************************************************
+Player-ID = : Bot-16 
+Points = 2.0
+Action = [Actor-Kill]
+Victim = Actor214_(Actor_Local_Minion_214)
+Timestamp = 153634
+**************************************************
